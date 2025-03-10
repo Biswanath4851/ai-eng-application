@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/245202277581406026/2489ff54190a4852b6d9c4836fd2c67e/artifacts
+end_time: 1741627729944
+entry_point_name: ''
+experiment_id: '245202277581406026'
+lifecycle_stage: active
+run_id: 2489ff54190a4852b6d9c4836fd2c67e
+run_name: bemused-carp-864
+run_uuid: 2489ff54190a4852b6d9c4836fd2c67e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741627729835
+status: 3
+tags: []
+user_id: PATTAM
